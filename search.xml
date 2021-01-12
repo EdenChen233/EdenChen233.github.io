@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>第一章-计算机考研机试指南笔记</title>
+      <link href="2021/01/12/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E7%AC%94%E8%AE%B0/"/>
+      <url>2021/01/12/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%BA%E8%AF%95%E6%8C%87%E5%8D%97%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一章-计算机考研机试指南笔记"><a href="#第一章-计算机考研机试指南笔记" class="headerlink" title="第一章-计算机考研机试指南笔记"></a>第一章-计算机考研机试指南笔记</h1><h2 id="评判结果"><a href="#评判结果" class="headerlink" title="评判结果"></a>评判结果</h2><ol><li><p><strong>答案正确（Accepted）</strong></p></li><li><p><strong>答案错误(Wrong Answer)：</strong></p><ul><li>健壮性，考虑特殊输入，如边界数据、变量溢出</li><li>正确性，考虑算法设计。</li></ul></li><li><p><strong>格式错误(Presentation Error)：</strong></p><ul><li>离正确答案不远，需要考虑空格，换行</li><li>图形排版中离正确答案仍有距离</li></ul></li><li><p><strong>超出时间限制（Time Limit Exceeded）:</strong></p><ul><li>确定算法时间复杂度符合要求，可以检查程序是否可能出现死循环（边界数据）</li><li>时间复杂度不符合要求，算法需要优化</li></ul></li><li><p><strong>运行时错误（Runtime Error）:</strong></p><ul><li>访存错误，数组越界</li><li>除以0</li><li>调用了评判系统禁止调用的函数</li><li>递归过深或其他原因造成的栈溢出</li></ul></li><li><p><strong>编译错误（Compile Error）：</strong></p><ul><li>根据编译信息修改</li></ul></li><li><p><strong>使用内存超出限制（Memory Limit Exceeded）：</strong></p><ul><li>算法空间复杂度过高</li><li>程序本身的错误使得程序不断申请内存（注意数组声明和死循环）</li></ul></li><li><p><strong>输出超出限制（Output Limit Exceeded）：</strong></p><ul><li>提交是忘记关闭调试输出时的调试信息</li><li>输出出现死循环</li></ul></li></ol><h2 id="语言与IDE选择"><a href="#语言与IDE选择" class="headerlink" title="语言与IDE选择"></a>语言与IDE选择</h2><h3 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h3><p><strong>推荐使用C with STL</strong></p><h3 id="IDE"><a href="#IDE" class="headerlink" title="IDE"></a>IDE</h3><p><strong>VC++ 6.0 , Visual Studio , Dev-C++ , Code::Blocks，推荐使用Code::Blocks</strong></p><h2 id="在线测评系统"><a href="#在线测评系统" class="headerlink" title="在线测评系统"></a>在线测评系统</h2><p><strong>牛客网（<a href="https://www.nowcoder.com/kaoyan%EF%BC%89">https://www.nowcoder.com/kaoyan）</a></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机考研 </category>
+          
+          <category> 机试笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机考研 </tag>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2021/01/06/hello-world/"/>
       <url>2021/01/06/hello-world/</url>
